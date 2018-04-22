@@ -1,0 +1,5 @@
+﻿  HuffmanTree.cpp
+d:\prac\chapter3\chapter3\huffman\huffmantree.cpp(169): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\prac\chapter3\chapter3\huffman\huffmantree.cpp(169): warning C4305: “初始化”: 从“double”到“float”截断
+  Huffman.vcxproj -> D:\PRAC\CHAPTER3\CHAPTER3\Debug\Huffman.exe
+  Huffman.vcxproj -> D:\PRAC\CHAPTER3\CHAPTER3\Debug\Huffman.pdb (Partial PDB)

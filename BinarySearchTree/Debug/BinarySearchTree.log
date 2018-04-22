@@ -1,0 +1,5 @@
+﻿  BinarySearchTree.cpp
+d:\prac\chapter3\chapter3\binarysearchtree\binarysearchtree.cpp(502): warning C4101: “test”: 未引用的局部变量
+d:\prac\chapter3\chapter3\binarysearchtree\binarysearchtree.cpp(244): warning C4715: “BinaryTree::DelbyCopy”: 不是所有的控件路径都返回值
+  BinarySearchTree.vcxproj -> D:\PRAC\CHAPTER3\CHAPTER3\Debug\BinarySearchTree.exe
+  BinarySearchTree.vcxproj -> D:\PRAC\CHAPTER3\CHAPTER3\Debug\BinarySearchTree.pdb (Partial PDB)
